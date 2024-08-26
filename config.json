@@ -1,0 +1,12 @@
+{
+    "PORTS": [9999, 10000],
+    "LOG_FILE": "honeypot.log",
+    "REPORT_FILE": "report.txt",
+    "IPINFO_ENABLED": true,
+    "REPORT_ENABLED": true,
+    "TELEGRAM_ENABLED": true,
+    "TELEGRAM_BOT_TOKEN": "your-telegram-bot-token",
+    "TELEGRAM_CHAT_ID": "your-telegram-chat-id",
+    "RESPONSE_MESSAGE": "I see dead people # stop doing illegal shit",
+    "ATTACK_DETECTION_ENABLED": true
+}
